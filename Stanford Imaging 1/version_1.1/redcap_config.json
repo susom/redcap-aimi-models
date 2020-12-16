@@ -1,0 +1,11 @@
+{
+	"name" : "Stanford Imaging Model 1 v2",
+	"description" : "Test model 2",
+	"authors" : [
+		"Jordan Schultz",
+		"Andrew Martin"
+	],
+	"institution": ["Stanford"],
+	"released" : "2022-10-10"
+}
+
