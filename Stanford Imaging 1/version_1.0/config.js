@@ -58,7 +58,7 @@ config_data = {
         "Pleural Effusion"
     ],
 
-    "model_path": "models/KerasModel-TFJSWithLayers/model.json",
+    "model_path": "model.json",
 
     "RGB_COLORMAP": [0.0416, 0, 0, 1, 0.05189484, 0, 0, 1, 0.06218969, 0, 0, 1, 0.07248453, 0, 0, 1], 
 
