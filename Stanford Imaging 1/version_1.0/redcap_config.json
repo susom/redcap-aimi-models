@@ -1,11 +1,12 @@
 {
-	"name" : "Stanford Imaging Model 1",
+	"name" : "Stanford ML 1",
 	"description" : "Test model push",
 	"authors" : [
 		"Jordan Schultz",
-		"Irvin Szeto"
+		"Irvin Szeto",
+		"Arjun Soin"
 	],
 	"institution": ["Stanford"],
-	"released" : "2020-10-10"
+	"released" : "2021-04-13"
 }
 
