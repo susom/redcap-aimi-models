@@ -1,0 +1,12 @@
+{
+	"name" : "Stanford ML 1",
+	"description" : "Test model push",
+	"authors" : [
+		"Jordan Schultz",
+		"Irvin Szeto",
+		"Arjun Soin"
+	],
+	"institution": ["Stanford"],
+	"released" : "2021-04-13"
+}
+
