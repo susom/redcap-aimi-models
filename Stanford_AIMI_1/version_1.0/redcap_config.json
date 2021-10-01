@@ -1,6 +1,6 @@
 {
-	"name" : "Stanford ML 1",
-	"description" : "Test model push",
+	"name" : "XrayFusion",
+	"description" : "Powered by the CheXpert model. Diseases included are based on prevalence in reports and clinical relevance.",
 	"authors" : [
 		"Jordan Schultz",
 		"Irvin Szeto",
